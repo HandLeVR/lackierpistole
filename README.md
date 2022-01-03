@@ -5,12 +5,10 @@ In diesem Repository sind die 3D-Modelle sowie Anleitungen enthalten, die den Dr
 # Voraussetzungen
 - 3D-Drucker
 - Lötkolben
-- Schrauben
 - Verschiedenfarbige dünne Kabel
 - Schrumpfschläuche/Isolierband
-- 3x Drehpotentiometern
-- 1x Schiebepotentiometer
-- 1x Arduino Nano (ohne angelötete Pins)
+
+Weitere benötigte Materialien sind im Dokument [BenötigteMaterialien.pdf](Anleitung/BenötigteMaterialien.pdf) aufgelistet.
 
 # Dateistruktur
 
